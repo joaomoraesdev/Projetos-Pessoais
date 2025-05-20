@@ -1,0 +1,15 @@
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MercadoLivreAPI.exe
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MercadoLivreAPI.deps.json
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MercadoLivreAPI.runtimeconfig.json
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MercadoLivreAPI.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MercadoLivreAPI.pdb
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.AssemblyInfoInputs.cache
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.AssemblyInfo.cs
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.sourcelink.json
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\refint\MercadoLivreAPI.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.pdb
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.genruntimeconfig.cache
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\ref\MercadoLivreAPI.dll

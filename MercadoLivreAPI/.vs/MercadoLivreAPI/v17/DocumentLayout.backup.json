@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MercadoLivreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Program.cs",
+              "RelativeToolTip": "MercadoLivreAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:49:28.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
