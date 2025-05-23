@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\mlapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\mlapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\usuarioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\usuarioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\tokenresposne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\tokenresposne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\dadoscontaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\dadoscontaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|solutionrelative:mercadolivreapi\\models\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41D6A0C-C99E-4650-95A3-0C3CE4EDBD90}|MercadoLivreAPI\\MercadoLivreAPI.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\mercadolivreapi\\mercadolivreapi\\models\\saleterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Program.cs",
               "RelativeDocumentMoniker": "MercadoLivreAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Program.cs",
               "RelativeToolTip": "MercadoLivreAPI\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:49:28.692Z",
               "IsPinned": true,
@@ -48,7 +64,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\MLAPI.cs",
+              "RelativeDocumentMoniker": "MercadoLivreAPI\\MLAPI.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\MLAPI.cs",
+              "RelativeToolTip": "MercadoLivreAPI\\MLAPI.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:28:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioTeste.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\UsuarioTeste.cs",
+              "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\UsuarioTeste.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\UsuarioTeste.cs",
+              "RelativeToolTip": "MercadoLivreAPI\\Models\\UsuarioTeste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:29:22.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenResposne.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\TokenResposne.cs",
+              "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\TokenResposne.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\TokenResposne.cs",
+              "RelativeToolTip": "MercadoLivreAPI\\Models\\TokenResposne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:09:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DadosContaML.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\DadosContaML.cs",
+              "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\DadosContaML.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\DadosContaML.cs",
+              "RelativeToolTip": "MercadoLivreAPI\\Models\\DadosContaML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:29:45.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SaleTerm.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\SaleTerm.cs",
               "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\SaleTerm.cs",
@@ -56,12 +124,11 @@
               "RelativeToolTip": "MercadoLivreAPI\\Models\\SaleTerm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:22:14.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:22:14.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\ProductAttribute.cs",
               "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\ProductAttribute.cs",
@@ -69,12 +136,11 @@
               "RelativeToolTip": "MercadoLivreAPI\\Models\\ProductAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:22:04.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:22:04.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\Product.cs",
@@ -82,12 +148,11 @@
               "RelativeToolTip": "MercadoLivreAPI\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:21:44.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:21:44.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Picture.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\MercadoLivreAPI\\MercadoLivreAPI\\Models\\Picture.cs",
               "RelativeDocumentMoniker": "MercadoLivreAPI\\Models\\Picture.cs",
@@ -95,8 +160,7 @@
               "RelativeToolTip": "MercadoLivreAPI\\Models\\Picture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:21:19.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:21:19.028Z"
             }
           ]
         }
