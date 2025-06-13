@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T23:44:36.06Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-10T01:45:42.006Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T19:04:32.873Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "ViewState": "AgIAACsAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T01:05:33.556Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T15:26:43.693Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -150,8 +145,7 @@
               "RelativeToolTip": "WebAppML\\Views\\Menu\\Cadastro.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T00:59:38.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:59:38.145Z"
             },
             {
               "$type": "Document",
@@ -163,8 +157,7 @@
               "RelativeToolTip": "WebAppML\\Controllers\\ProdutoMLController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:24:10.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:24:10.851Z"
             },
             {
               "$type": "Document",
@@ -176,8 +169,7 @@
               "RelativeToolTip": "WebAppML\\Views\\ML\\MenuProduto.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T00:18:32.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:18:32.225Z"
             },
             {
               "$type": "Document",
@@ -189,8 +181,7 @@
               "RelativeToolTip": "WebAppML\\Entity\\Aplicacao.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T23:37:51.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T23:37:51.563Z"
             }
           ]
         }

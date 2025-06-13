@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Login.cshtml",
               "RelativeDocumentMoniker": "WebAppML\\Views\\Menu\\Login.cshtml",
@@ -67,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "menu.js",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
               "RelativeDocumentMoniker": "WebAppML\\wwwroot\\js\\menu.js",
@@ -80,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "WebAppML\\Controllers\\MenuController.cs",
@@ -93,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AplicacaoBll.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\AplicacaoBll.cs",
               "RelativeDocumentMoniker": "WebAppML\\Bll\\AplicacaoBll.cs",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OAuthController.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\OAuthController.cs",
               "RelativeDocumentMoniker": "WebAppML\\Controllers\\OAuthController.cs",
@@ -120,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OAuthBll.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\OAuthBll.cs",
               "RelativeDocumentMoniker": "WebAppML\\Bll\\OAuthBll.cs",
@@ -132,12 +136,25 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Program.cs",
+              "RelativeToolTip": "WebAppML\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:03:13.742Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cadastro.cshtml",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Cadastro.cshtml",
               "RelativeDocumentMoniker": "WebAppML\\Views\\Menu\\Cadastro.cshtml",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProdutoMLController.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\ProdutoMLController.cs",
               "RelativeDocumentMoniker": "WebAppML\\Controllers\\ProdutoMLController.cs",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\ML\\MenuProduto.cshtml",
               "RelativeDocumentMoniker": "WebAppML\\Views\\ML\\MenuProduto.cshtml",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Aplicacao.cs",
               "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Entity\\Aplicacao.cs",
               "RelativeDocumentMoniker": "WebAppML\\Entity\\Aplicacao.cs",
