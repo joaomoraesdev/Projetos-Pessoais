@@ -1,0 +1,32 @@
+﻿<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="~/js/menu.js"></script>
+</head>
+<body>
+    <div class="text-center">
+        <p>Nome Aplicação:</p>
+        <input id="txtNomeAppCadastro" type="text" name="txtNomeAppCadastro" placeholder="Insira o nome da aplicação" class="form-control" />
+
+        <p>ID da Aplicação:</p>
+        <input id="txtIdAppCadastro" type="text" name="txtIdAppCadastro" placeholder="Insira o Client ID" class="form-control" />
+
+        <p>Senha:</p>
+        <input id="txtSenhaCadastro" type="password" name="txtSenhaCadastro" placeholder="Insira a nova senha" class="form-control" />
+
+        <p>Confirme a Senha:</p>
+        <input id="txtConfSenhaCadastro" type="password" name="txtConfSenhaCadastro" placeholder="Confime a nova senha" class="form-control" />
+
+        <p>Chave Secreta:</p>
+        <input id="txtChaveSecreta" type="text" name="txtChaveSecreta" placeholder="Insira a secret key" class="form-control" />
+
+        <p>URI de Redirecionamento:</p>
+        <input id="txtRedirectURI" type="text" name="txtRedirectURI" placeholder="Insira a redirect URI" class="form-control" />
+
+        <br />
+        <button id="btnCadastrar" type="button" class="btn btn-primary">Criar Aplicação</button>
+    </div>
+</body>

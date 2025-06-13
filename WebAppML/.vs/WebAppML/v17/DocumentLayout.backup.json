@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\controllers\\produtomlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\controllers\\produtomlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\views\\ml\\menuproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\views\\ml\\menuproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\bll\\aplicacaobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\bll\\aplicacaobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\wwwroot\\js\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\wwwroot\\js\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\views\\menu\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\views\\menu\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\views\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\views\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\entity\\aplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\entity\\aplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|c:\\users\\johns\\documents\\github\\projetos pessoais\\webappml\\webappml\\bll\\oauthbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B88FA-DDF9-48C8-B228-8DBF9997E770}|WebAppML\\WebAppML.csproj|solutionrelative:webappml\\bll\\oauthbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebAppML\\Views\\Menu\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Login.cshtml",
+              "RelativeToolTip": "WebAppML\\Views\\Menu\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T23:44:36.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.js",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
+              "RelativeDocumentMoniker": "WebAppML\\wwwroot\\js\\menu.js",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
+              "RelativeToolTip": "WebAppML\\wwwroot\\js\\menu.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T01:45:42.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebAppML\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:04:32.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicacaoBll.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\AplicacaoBll.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Bll\\AplicacaoBll.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\AplicacaoBll.cs",
+              "RelativeToolTip": "WebAppML\\Bll\\AplicacaoBll.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:05:33.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Controllers\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "WebAppML\\Controllers\\OAuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:24:37.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OAuthBll.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\OAuthBll.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Bll\\OAuthBll.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Bll\\OAuthBll.cs",
+              "RelativeToolTip": "WebAppML\\Bll\\OAuthBll.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:26:43.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "WebAppML\\Views\\Menu\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\Menu\\Cadastro.cshtml",
+              "RelativeToolTip": "WebAppML\\Views\\Menu\\Cadastro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:59:38.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoMLController.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\ProdutoMLController.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Controllers\\ProdutoMLController.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Controllers\\ProdutoMLController.cs",
+              "RelativeToolTip": "WebAppML\\Controllers\\ProdutoMLController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:24:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\ML\\MenuProduto.cshtml",
+              "RelativeDocumentMoniker": "WebAppML\\Views\\ML\\MenuProduto.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Views\\ML\\MenuProduto.cshtml",
+              "RelativeToolTip": "WebAppML\\Views\\ML\\MenuProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:18:32.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aplicacao.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Entity\\Aplicacao.cs",
+              "RelativeDocumentMoniker": "WebAppML\\Entity\\Aplicacao.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\Entity\\Aplicacao.cs",
+              "RelativeToolTip": "WebAppML\\Entity\\Aplicacao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:37:51.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

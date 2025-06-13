@@ -12,6 +12,9 @@ namespace MercadoLivreAPI.Models
         [JsonPropertyName("id")]
         public long Id { get; set; }
 
+        [JsonPropertyName("email")]
+        public string Email { get; set; }
+
         [JsonPropertyName("nickname")]
         public string Usuario { get; set; }
 
@@ -19,6 +22,6 @@ namespace MercadoLivreAPI.Models
         public string Senha { get; set; }
 
         [JsonPropertyName("site_status")]
-        public int SiteStatus { get; set; }
+        public string SiteStatus { get; set; }
     }
 }

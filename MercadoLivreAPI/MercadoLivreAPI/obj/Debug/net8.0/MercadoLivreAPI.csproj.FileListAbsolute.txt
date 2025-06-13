@@ -13,3 +13,12 @@ C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAP
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.pdb
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.genruntimeconfig.cache
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\ref\MercadoLivreAPI.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoLivreAPI.csproj.AssemblyReference.cache
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\MercadoLivreAPI\MercadoLivreAPI\obj\Debug\net8.0\MercadoL.82BFAAB9.Up2Date

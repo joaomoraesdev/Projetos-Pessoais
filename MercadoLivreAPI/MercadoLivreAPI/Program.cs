@@ -14,17 +14,42 @@ namespace API_ML
         static async Task Main(string[] args)
         {
             MLAPI api = new MLAPI();
-            //await api.ObterCodigoAutorizacao();
-            Console.WriteLine("");
-            //await api.ObterTokenAcesso();
-            Console.WriteLine("");
-            //await api.CriarUsuarioTeste();
-            Console.WriteLine("");
-            //await api.ObterTokenAcessoUsuario();
-            Console.WriteLine("");
-            //await api.GetProduto("MLB1828680414");
-            Console.WriteLine("");
-            await api.CriarProduto();
+
+            Console.WriteLine("🔐 Inicializando autenticação...");
+            await api.InicializarTokenAutomatico();
+
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("== MERCADO LIVRE API ==");
+                Console.WriteLine("1 - Criar Produto");
+                Console.WriteLine("2 - Consultar Produto");
+                Console.WriteLine("3 - Criar Usuário de Teste");
+                Console.WriteLine("0 - Sair");
+                Console.Write("\nEscolha uma opção: ");
+                var opcao = Console.ReadLine();
+
+                switch (opcao)
+                {
+                    case "1":
+                        await api.CriarProduto();
+                        break;
+                    case "2":
+                        Console.Write("ID do produto: ");
+                        await api.GetProduto(Console.ReadLine());
+                        break;
+                    case "3":
+                        await api.CriarUsuarioTeste();
+                        break;
+                    case "0":
+                        return;
+                    default:
+                        Console.WriteLine("Opção inválida.");
+                        break;
+                }
+                Console.WriteLine("\nPressione ENTER para continuar...");
+                Console.ReadLine();
+            }
         }
 
     }

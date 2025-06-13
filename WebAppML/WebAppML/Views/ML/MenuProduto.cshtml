@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+            integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+            crossorigin="anonymous"></script>
+
+    <!-- Script personalizado (corrigido para ambiente ASP.NET, se aplicável) -->
+    <script src="/js/menu.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="display-4 text-center">@ViewBag.NomeAplicacao</h1>
+
+        <table class="table table-bordered table-striped mt-4">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID do Produto</th>
+                    <th>Nome</th>
+                    <th>Quantidade</th>
+                    <th>Preço (R$)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Mouse</td>
+                    <td>50</td>
+                    <td>R$ 79,90</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Teclado</td>
+                    <td>30</td>
+                    <td>R$ 129,90</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Monitor</td>
+                    <td>10</td>
+                    <td>R$ 899,99</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

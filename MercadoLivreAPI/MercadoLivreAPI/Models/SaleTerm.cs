@@ -10,5 +10,6 @@ namespace MercadoLivreAPI.Models
     {
         public string id { get; set; }
         public string value_name { get; set; }
+        public string value_id { get; set; }
     }
 }

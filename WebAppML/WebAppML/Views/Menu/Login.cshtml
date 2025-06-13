@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="~/js/menu.js"></script>
+</head>
+<body>
+    <form asp-action="LoginAplicacao" asp-controller="Menu" method="post">
+        <div class="text-center mt-5">
+            <h1 class="display-4">Bem vindo!</h1>
+
+            <p>ID Aplicação:</p>
+            <input id="txtLogin" type="text" name="login" placeholder="Insira o ID da aplicação" class="form-control" />
+
+            <p>Senha:</p>
+            <input id="txtSenha" type="password" name="senha" placeholder="Insira a senha" class="form-control" />
+
+            <br />
+            <button id="btnEntrar" type="submit" class="btn btn-primary">Entrar</button>
+            <br />
+            <br />
+            <p>
+                Ainda não tem conta?
+                <a href="/Menu/Cadastro" class="text-decoration-underline">Criar conta</a>
+            </p>
+        </div>
+    </form>
+
+</body>
+</html>

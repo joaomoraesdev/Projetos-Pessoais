@@ -1,0 +1,6 @@
+@teste_ape_HostAddress = http://localhost:5009
+
+GET {{teste_ape_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

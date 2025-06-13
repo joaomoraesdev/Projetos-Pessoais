@@ -1,12 +1,7 @@
-﻿using API_ML;
-using MercadoLivreAPI.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using MercadoLivreAPI.Models;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace MercadoLivreAPI
 {
@@ -20,11 +15,11 @@ namespace MercadoLivreAPI
             client = new HttpClient();
             dadosContaML = new DadosContaML("7088454564644269",
                 "6UwgH0x3oVS6vmNJE9ARzwGX0hCHNYQU",
-                "TG-6830b393e4158c000193a82e-209627840",
+                "TG-6837949f53334100017c863e-209627840",
                 "https://www.google.com.br");
             tokenResponse = new TokenResponse();
-            tokenResponse.RefreshToken = "TG-68309a22e47c3400010bef9f-209627840";
-            tokenResponse.AccessToken = "APP_USR-7088454564644269-052313-69bf49aba79448ca6de7d7c6fcd5242c-209627840";
+            tokenResponse.RefreshToken = "TG-683764e753334100017a4e89-209627840";
+            tokenResponse.AccessToken = "APP_USR-7088454564644269-052815-da5b41c7383a7b9aaf8369c0289a8564-209627840";
         }
 
         //const string app_id = "7088454564644269";
@@ -88,6 +83,7 @@ namespace MercadoLivreAPI
                 tokenResponse.AccessToken = respostaToken.AccessToken;
                 Console.WriteLine("Access Token: " + tokenResponse.AccessToken);
                 Console.WriteLine("Refresh Token: " + tokenResponse.RefreshToken);
+                await SalvarToken();
 
                 Console.WriteLine("Token obtido:\n" + json);
             }
@@ -111,8 +107,8 @@ namespace MercadoLivreAPI
                 listing_type_id = "gold_special",
                 sale_terms = new List<SaleTerm>
                 {
-                    new SaleTerm { id = "WARRANTY_TYPE", value_name = "Garantía del vendedor" },
-                    new SaleTerm { id = "WARRANTY_TIME", value_name = "90 días" }
+                    new SaleTerm { id = "WARRANTY_TYPE", value_id = "2230279" }, // Garantia do vendedor
+                    new SaleTerm { id = "WARRANTY_TIME", value_name = "90 dias" }
                 },
                 pictures = new List<Picture>
                 {
@@ -120,32 +116,40 @@ namespace MercadoLivreAPI
                 },
                 attributes = new List<ProductAttribute>
                 {
-                    new ProductAttribute { id = "BRAND", value_name = "Marca del producto" },
-                    new ProductAttribute { id = "EAN", value_name = "7898095297749" }
+                    new ProductAttribute { id = "BRAND", value_name = "Marca do produto" },
+                    new ProductAttribute { id = "EAN", value_name = "7898095297749" },
+                    new ProductAttribute { id = "MODEL", value_name = "Modelo Teste 01" }
                 }
             };
 
-            var options = new JsonSerializerOptions
-            {
-                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-            };
+
+            var options = new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
             var json = JsonSerializer.Serialize(product, options);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", tokenResponse.AccessToken);
 
             var response = await client.PostAsync("https://api.mercadolibre.com/items", content);
+            var resultJson = await response.Content.ReadAsStringAsync();
 
             if (response.IsSuccessStatusCode)
             {
-                string result = await response.Content.ReadAsStringAsync();
-                Console.WriteLine("✅ Produto criado:\n" + result);
+                Console.WriteLine("✅ Produto criado com sucesso!");
+                Console.WriteLine(resultJson);
+
+                // Captura o ID do produto para poder usá-lo depois
+                var createdItem = JsonSerializer.Deserialize<JsonElement>(resultJson);
+                string itemId = createdItem.GetProperty("id").GetString();
+
+                Console.WriteLine($"🔍 Consultando produto criado: {itemId}");
+                await GetProduto(itemId);
             }
             else
             {
-                Console.WriteLine($"❌ Erro: {response.StatusCode}\n{await response.Content.ReadAsStringAsync()}");
+                Console.WriteLine($"❌ Erro ao criar produto: {response.StatusCode}\n{resultJson}");
             }
         }
+
 
 
         public async Task GetProduto(string itemId)
@@ -191,8 +195,8 @@ namespace MercadoLivreAPI
                 { "grant_type", "password" },
                 { "client_id", dadosContaML.AppId },
                 { "client_secret", dadosContaML.ChaveSecreta },
-                { "username", "TESTUSER1294981658" },
-                { "password", "Ollcfa7hkE" }
+                { "username", "TESTUSER1423718710" },
+                { "password", "5uEiJUbgl6" }
             };
 
             var content = new FormUrlEncodedContent(parameters);
@@ -203,5 +207,44 @@ namespace MercadoLivreAPI
             Console.WriteLine(json);
             var token = JsonSerializer.Deserialize<TokenResponse>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
         }
+
+        public async Task<bool> CarregarTokenSalvo()
+        {
+            string caminho = "token.json";
+            if (File.Exists(caminho))
+            {
+                string json = await File.ReadAllTextAsync(caminho);
+                tokenResponse = JsonSerializer.Deserialize<TokenResponse>(json);
+                return true;
+            }
+            return false;
+        }
+
+        public async Task SalvarToken()
+        {
+            string json = JsonSerializer.Serialize(tokenResponse);
+            await File.WriteAllTextAsync("token.json", json);
+        }
+
+        public async Task InicializarTokenAutomatico()
+        {
+            bool carregado = await CarregarTokenSalvo();
+
+            if (!carregado || string.IsNullOrWhiteSpace(tokenResponse.AccessToken))
+            {
+                Console.WriteLine("⚠️ Token não encontrado ou inválido. Tentando refresh...");
+
+                try
+                {
+                    await ObterTokenAcesso();
+                }
+                catch
+                {
+                    Console.WriteLine("❌ Erro ao tentar usar refresh token. Obtendo novo código de autorização...");
+                    await ObterCodigoAutorizacao();
+                }
+            }
+        }
+
     }
 }

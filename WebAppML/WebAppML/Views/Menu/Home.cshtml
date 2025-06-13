@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<div class="text-center">
+    <form asp-controller="Login" asp-action="Entrar" method="post">
+        <p>Usuario</p>
+        <input type="text" name="usuario" placeholder="Insira o usuário de login" class="form-control" />
+
+        <p>Senha</p>
+        <input type="password" name="senha" placeholder="Insira a nova senha" class="form-control" />
+
+        <p>Confirme a Senha</p>
+        <input type="password" name="senha" placeholder="Confime a nova senha" class="form-control" />
+
+        <p>ID do Cliente</p>
+        <input type="text" name="usuario" placeholder="Insira o Client ID" class="form-control" />
+
+        <p>Chave Secreta</p>
+        <input type="text" name="usuario" placeholder="Insira a secret key" class="form-control" />
+
+        <p>URI de Redirecionamento</p>
+        <input type="text" name="usuario" placeholder="Insira a redirect URI" class="form-control" />
+
+        <br />
+        <button type="submit" class="btn btn-primary">Criar Conta</button>
+    </form>
+</div>
