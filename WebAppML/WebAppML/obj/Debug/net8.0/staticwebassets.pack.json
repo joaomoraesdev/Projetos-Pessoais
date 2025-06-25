@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebAppML.qf3ko9v9al.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\menuProduto.css",
+      "PackagePath": "staticwebassets\\css\\menuProduto.css"
+    },
+    {
       "Id": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
       "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\produtoML.js",
+      "PackagePath": "staticwebassets\\js\\produtoML.js"
     },
     {
       "Id": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\site.js",

@@ -3,7 +3,7 @@ using WebAppML.Entity;
 
 namespace WebAppML.Bll
 {
-    public class OAuthBll
+    public class OAuthBll // DELETAR!!!!!!!
     {
         public async Task<RetornoAcao> AutenticacaoAplicacao(Aplicacao app)
         {

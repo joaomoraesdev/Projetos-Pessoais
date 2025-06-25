@@ -9,6 +9,9 @@ namespace WebAppML.Entity
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
+        [BsonElement("IdUsuario")]
+        public long IdUsuario { get; set; }
+
         [BsonElement("Nome")]
         public string Nome { get; set; }
 

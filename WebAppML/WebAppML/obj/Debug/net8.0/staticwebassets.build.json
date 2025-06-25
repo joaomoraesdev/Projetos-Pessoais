@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6E082rKoKzbE1tT3Le6BezZhzKE265YqrfdEgkcLwSE=",
+  "Hash": "WjH7btwfmrKIPUkoELPQi65OvwpOlPtjmIvOPOZOMz8=",
   "Source": "WebAppML",
   "BasePath": "_content/WebAppML",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebAppML.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\menuProduto.css",
+      "SourceId": "WebAppML",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\",
+      "BasePath": "_content/WebAppML",
+      "RelativePath": "css/menuProduto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8bk4o2y94j",
+      "Integrity": "LACAr6SvWwSOkojGU8AR+TY17MKmAil4oDKHUmsuyYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\menuProduto.css"
+    },
+    {
       "Identity": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\site.css",
       "SourceId": "WebAppML",
       "SourceType": "Discovered",
@@ -115,11 +136,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "le22nxjwhf",
-      "Integrity": "rUMRs76SsHRw2NeZkcgVp1TZczMLpqc0Q95yDb9f6P0=",
+      "Fingerprint": "j2omh899no",
+      "Integrity": "W8SX9ygJw1Mh6z5GlF/wSA/MXB8Y29tWlwkE4JrBvU8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\menu.js"
+    },
+    {
+      "Identity": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\produtoML.js",
+      "SourceId": "WebAppML",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\",
+      "BasePath": "_content/WebAppML",
+      "RelativePath": "js/produtoML#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ywrkh6waoc",
+      "Integrity": "UtMaJk4f9e4P249eR1S7+6J17uAs1jputZ+QX/MdBug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\produtoML.js"
     },
     {
       "Identity": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\site.js",
@@ -1342,6 +1384,88 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/menuProduto.8bk4o2y94j.css",
+      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\menuProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LACAr6SvWwSOkojGU8AR+TY17MKmAil4oDKHUmsuyYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 13:32:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bk4o2y94j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/menuProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LACAr6SvWwSOkojGU8AR+TY17MKmAil4oDKHUmsuyYo="
+        }
+      ]
+    },
+    {
+      "Route": "css/menuProduto.css",
+      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\menuProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LACAr6SvWwSOkojGU8AR+TY17MKmAil4oDKHUmsuyYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 13:32:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LACAr6SvWwSOkojGU8AR+TY17MKmAil4oDKHUmsuyYo="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1506,6 +1630,51 @@
       ]
     },
     {
+      "Route": "js/menu.j2omh899no.js",
+      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8SX9ygJw1Mh6z5GlF/wSA/MXB8Y29tWlwkE4JrBvU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 12:57:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2omh899no"
+        },
+        {
+          "Name": "label",
+          "Value": "js/menu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8SX9ygJw1Mh6z5GlF/wSA/MXB8Y29tWlwkE4JrBvU8="
+        }
+      ]
+    },
+    {
       "Route": "js/menu.js",
       "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
       "Selectors": [],
@@ -1516,7 +1685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5643"
+          "Value": "3498"
         },
         {
           "Name": "Content-Type",
@@ -1524,11 +1693,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rUMRs76SsHRw2NeZkcgVp1TZczMLpqc0Q95yDb9f6P0=\""
+          "Value": "\"W8SX9ygJw1Mh6z5GlF/wSA/MXB8Y29tWlwkE4JrBvU8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 01:01:11 GMT"
+          "Value": "Tue, 17 Jun 2025 12:57:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1538,13 +1707,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rUMRs76SsHRw2NeZkcgVp1TZczMLpqc0Q95yDb9f6P0="
+          "Value": "sha256-W8SX9ygJw1Mh6z5GlF/wSA/MXB8Y29tWlwkE4JrBvU8="
         }
       ]
     },
     {
-      "Route": "js/menu.le22nxjwhf.js",
-      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\menu.js",
+      "Route": "js/produtoML.js",
+      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\produtoML.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1553,7 +1722,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5643"
+          "Value": "5202"
         },
         {
           "Name": "Content-Type",
@@ -1561,11 +1730,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rUMRs76SsHRw2NeZkcgVp1TZczMLpqc0Q95yDb9f6P0=\""
+          "Value": "\"UtMaJk4f9e4P249eR1S7+6J17uAs1jputZ+QX/MdBug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 01:01:11 GMT"
+          "Value": "Wed, 18 Jun 2025 14:11:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtMaJk4f9e4P249eR1S7+6J17uAs1jputZ+QX/MdBug="
+        }
+      ]
+    },
+    {
+      "Route": "js/produtoML.ywrkh6waoc.js",
+      "AssetFile": "C:\\Users\\Johns\\Documents\\GitHub\\Projetos Pessoais\\WebAppML\\WebAppML\\wwwroot\\js\\produtoML.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtMaJk4f9e4P249eR1S7+6J17uAs1jputZ+QX/MdBug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:11:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1575,15 +1781,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le22nxjwhf"
+          "Value": "ywrkh6waoc"
         },
         {
           "Name": "label",
-          "Value": "js/menu.js"
+          "Value": "js/produtoML.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rUMRs76SsHRw2NeZkcgVp1TZczMLpqc0Q95yDb9f6P0="
+          "Value": "sha256-UtMaJk4f9e4P249eR1S7+6J17uAs1jputZ+QX/MdBug="
         }
       ]
     },

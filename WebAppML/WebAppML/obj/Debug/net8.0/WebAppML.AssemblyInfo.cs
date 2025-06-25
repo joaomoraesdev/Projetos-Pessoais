@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db379883bec5bab7a3a9aa1ebeb872cfe5e0bfd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead35864c57c703a220c6ec505de787ceaca42bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

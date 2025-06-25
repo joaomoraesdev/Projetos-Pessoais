@@ -30,7 +30,7 @@ namespace MercadoLivreAPI
         // URL principal para obter token
         const string url_principal = "https://api.mercadolibre.com/oauth/token";
 
-        public async Task ObterCodigoAutorizacao()
+        public async Task ObterCodigoAutorizacao() // aqui pega os tokens se n tiver refresh
         {
             var headers = new Dictionary<string, string>
             {

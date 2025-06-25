@@ -9,6 +9,12 @@ using static System.Net.Mime.MediaTypeNames;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// ADICIONA o user-secrets apenas em ambiente de desenvolvimento
+if (builder.Environment.IsDevelopment())
+{
+    builder.Configuration.AddUserSecrets<Program>();
+}
+
 // Carregar configurações do appsettings.json
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
 
@@ -43,6 +49,8 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+builder.Services.AddHttpClient();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -57,7 +65,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 // === ABRE A URL DO NGROK AO INICIAR ===
-var ngrokUrl = "https://549f-2804-1b3-ae82-9e94-40c3-aae6-2c50-11b5.ngrok-free.app"; // coloque sua URL do ngrok aqui
+var ngrokUrl = "https://6246-177-161-241-125.ngrok-free.app"; // coloque sua URL do ngrok aqui
 try
 {
     Process.Start(new ProcessStartInfo

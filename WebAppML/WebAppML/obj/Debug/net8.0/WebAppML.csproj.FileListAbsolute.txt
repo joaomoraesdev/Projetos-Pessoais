@@ -42,3 +42,4 @@ C:\Users\Johns\Documents\GitHub\Projetos Pessoais\WebAppML\WebAppML\obj\Debug\ne
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\WebAppML\WebAppML\obj\Debug\net8.0\WebAppML.genruntimeconfig.cache
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\WebAppML\WebAppML\obj\Debug\net8.0\ref\WebAppML.dll
 C:\Users\Johns\Documents\GitHub\Projetos Pessoais\WebAppML\WebAppML\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Johns\Documents\GitHub\Projetos Pessoais\WebAppML\WebAppML\bin\Debug\net8.0\appsettings.Production.json
