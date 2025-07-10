@@ -15,7 +15,7 @@ if (builder.Environment.IsDevelopment())
     builder.Configuration.AddUserSecrets<Program>();
 }
 
-// Carregar configurações do appsettings.json
+// Carregar configurações do appsettings.json // variáveis de ambiente
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
 
 // MongoClient singleton
