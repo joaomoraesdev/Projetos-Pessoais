@@ -31,7 +31,7 @@ namespace WebAppML.Controllers
 
                 if (app.Senha == senha)
                 {
-                    // Redireciona para o método na controller de OAuth com os dados
+                    // Redireciona para o método na controller de OAuth com os dados de login e senha
                     return RedirectToAction("AutorizarMercadoLivre", "OAuth", new Aplicacao { Id = app.Id, AppId = app.AppId, RedirectURI = app.RedirectURI });
                 }
                 else
